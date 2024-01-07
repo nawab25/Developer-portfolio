@@ -45,7 +45,7 @@
     background-image: url(images/header_bg.png), url(images/developer.png);
     background-repeat: no-repeat, no-repeat;
     background-position: right bottom, left center;
-    background-size: 45%, 5.2%;
+    background-size: 45%, 6.8%;
     background-position-x: right, 5%;
 }
 nav {
@@ -77,9 +77,13 @@ nav {
     padding-left: 100px;
     
 }
+.banner-right-contents {
+    height: 600px;
+    width: 500px;
+}
 .banner-right-contents img {
-    width: 400px;
-    
+    width: 100%;
+    height: 100%;  
 }
 
 .banner-left-contents{
